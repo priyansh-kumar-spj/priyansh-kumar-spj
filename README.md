@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in fron
 
 ## 📫 How to reach me
 - Email: [priyansh803213@gmail.com]
-- LinkedIn: [Your LinkedIn Profile]
+- LinkedIn: [priyansh-kumar-spj]
 - Twitter: [Your Twitter Handle]
 
 ## 😄 Pronouns
@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in fron
 *An extensive platform for exploring India’s best travel destinations and experiences.*
 
 ## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/YourProfile)
+[![LinkedIn](https://www.linkedin.com/in/priyansh-kumar-spj)](https://linkedin.com/in/YourProfile)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/YourHandle)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/priyansh-kumar-spj)
 

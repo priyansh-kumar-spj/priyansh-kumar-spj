@@ -35,19 +35,19 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in fron
 - 🔧 **Tools & Platforms:** Git, GitHub, Vercel, Firebase, Docker
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyansh-kumar-spj&show_icons=true&theme=radical)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyansh-kumar-spj&layout=compact&theme=radical)
 
 ## 📌 Featured Projects
-### [Codeify](https://github.com/priyansh-kumar-spj/Codeify)
+### [Quiz](https://github.com/priyansh-kumar-spj/Quiz.git)
 *A platform for job recruitment, making hiring easier for employers and job seekers.*
 
 ### [India Tourism Guide](https://github.com/priyansh-kumar-spj/India-Tourism-Guide)
 *An extensive platform for exploring India’s best travel destinations and experiences.*
 
 ## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/Linkedin.com-Follow-red?logo=Linkedin)](https://www.linkedin.com/in/priyansh-kumar-spj)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-Follow-red?logo=Linkedin)](https://www.linkedin.com/in/priyansh-kumar-spj)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/YourHandle)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/priyansh-kumar-spj)
 

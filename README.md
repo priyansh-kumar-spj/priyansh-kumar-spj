@@ -1,56 +1,85 @@
-# 👋 Hi, I’m @priyansh-kumar-spj
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00E7FF&width=700&lines=Hello+World!+👋+I'm+Priyansh+Kumar;MERN+Stack+Developer;Frontend+Developer🏆;Tech+Explorer+🚀;Python+Devloper🐍" />
+</h1>
 
-Welcome to my GitHub profile! I'm a passionate developer with experience in frontend development, C++, and C. I'm currently exploring and building projects in the MERN stack.
+---
 
-## 👀 I’m interested in
-- Web development and the MERN stack
-- Building scalable and user-friendly applications
-- Exploring new technologies and frameworks
+## 👨‍💻 About Me
+🔥 MERN Stack Developer | 🚀 Innovator | 💡 Problem Solver  
+I love crafting fast, modern, and impactful digital experiences using full-stack technologies.
 
-## 🌱 I’m currently learning
-- Advanced frontend development
-- Backend technologies in the MERN stack
-- Optimizing web performance
+---
 
-## 💞️ I’m looking to collaborate on
-- Open-source projects related to web development
-- MERN stack projects
-- Innovative tech-driven ideas
+## 🎯 Interests
+- Full-Stack Web Development
+- UI/UX + Animations
+- Modern Tools & Scalable Applications
 
-## 📫 How to reach me
-- Email: [priyansh803213@gmail.com]
-- LinkedIn: [priyansh-kumar-spj]
-- Twitter: [Your Twitter Handle]
+---
 
-## 😄 Pronouns
-- He/Him
+## 📚 Currently Learning
+✨ Advanced React & Next.js  
+🔐 Backend Security + Performance  
+⚙ Clean Architecture & Best Practices  
 
-## ⚡ Fun fact
-- I love exploring new tech and brainstorming innovative ideas!
+---
 
-## 🛠️ Tech Stack
-- 💻 **Languages:** C++, C, JavaScript, TypeScript
-- 🌐 **Frontend:** React, Next.js, HTML, CSS, Tailwind CSS
-- 🛢️ **Backend:** Node.js, Express.js, MongoDB
-- 🔧 **Tools & Platforms:** Git, GitHub, Vercel, Firebase, Docker
+## 🌐 Connect With Me
 
-## 📈 GitHub Stats
+<p align="center">
+<a href="https://www.linkedin.com/in/priyansh-kumar-spj">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:priyansh803213@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/Twitter-Coming%20Soon-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+</p>
 
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyansh-kumar-spj&layout=compact&theme=radical)
+## 🛠 Tech Stack
 
-## 📌 Featured Projects
-### [Quiz](https://github.com/priyansh-kumar-spj/Quiz.git)
-*A platform for job recruitment, making hiring easier for employers and job seekers.*
+| Category | Technologies |
+|---------|-------------|
+| 💻 Languages | C++, C, JavaScript, TypeScript, Python |
+| 🎨 Frontend | React, Next.js, HTML, CSS, Tailwind CSS |
+| ⚙ Backend | Node.js, Express.js |
+| 🗄 Database | MongoDB |
+| 🔧 Tools | Git, GitHub, Firebase, Docker, Vercel |
 
-### [India Tourism Guide](https://github.com/priyansh-kumar-spj/India-Tourism-Guide)
-*An extensive platform for exploring India’s best travel destinations and experiences.*
+---
 
-## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/Linkedin-Follow-red?logo=Linkedin)](https://www.linkedin.com/in/priyansh-kumar-spj)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/YourHandle)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/priyansh-kumar-spj)
+## 📈 GitHub Stats & Graphs
 
-Thanks for stopping by! Happy coding! 🚀
+<p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=priyansh-kumar-spj&show_icons=true&theme=tokyonight&hide_border=true" />
+&nbsp;
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=priyansh-kumar-spj&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Contribution Snake Animation
+
+<p align="center">
+<img src="https://github.com/priyansh-kumar-spj/priyansh-kumar-spj/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+> ⚠ To activate Snake animation, I’ll help you configure the workflow once you upload this README.
+
+---
+
+### ✨ Fun Fact
+I turn caffeine and ideas into real-world tech solutions! 😄☕
+
+---
+
+<h3 align="center">🚀 Thanks for Visiting — Let's Connect & Build Something Amazing!</h3>
+
 
 

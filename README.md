@@ -2,11 +2,11 @@
 <!-- Priyansh Kumar, MERN Stack Developer, Full Stack Developer India, React Developer India, JavaScript Developer, Next.js Developer, Node.js Developer, Frontend Developer India, Backend Developer India -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=650&lines=Hello+World!+👋+I'm+Priyansh+Kumar;MERN+Stack+Developer;Frontend+Developer;Python+Developer;Software+Development+Engineer;Tech+Explorer+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=720&lines=Hello+World!+👋+I'm+Priyansh+Kumar;MERN+Stack+Developer;Frontend+Developer;Backend+Developer;Python+Developer;Software+Development+Engineer;Tech+Explorer+🚀" />
 </h1>
 
 <p align="center">
-  🚀 Full Stack Web Developer | React.js • Node.js • Next.js | JavaScript & Python  
+  🚀 Full Stack Web Developer | MERN Stack | React • Node • Next.js | JavaScript & Python
 </p>
 
 <p align="center">
@@ -15,124 +15,139 @@
 
 ---
 
-## 👨‍💻 About Me (Priyansh Kumar – MERN Developer)
+## 👨‍💻 About Me
 
-I am **Priyansh Kumar**, a motivated **MERN Stack Developer from India** with hands-on experience in building  
-**scalable**, **responsive**, and **production-ready web applications**.
+I’m **Priyansh Kumar**, a passionate **MERN Stack Developer from India** with hands-on experience building  
+**scalable**, **responsive**, and **real-world web applications**.
 
-I work across the full stack and focus on writing **clean**, **maintainable**, and **performance-oriented code**.
+I enjoy working across the **full stack** and focus on:
+- clean architecture  
+- maintainable code  
+- performance & usability  
 
-I specialize in:
-
-- ⚡ **React.js** for modern, component-based frontends  
-- ⚡ **Next.js** for SEO-friendly and server-rendered apps  
-- ⚡ **Node.js & Express.js** for RESTful backend APIs  
-- ⚡ **MongoDB** for efficient and secure data storage  
-
-> Actively improving in full-stack architecture, system design basics, and real-world engineering practices.
+I believe in learning by **building real projects**, not just tutorials.
 
 ---
 
-## 💡 Skills & Technologies (ATS Optimized)
+## 🛠️ Skills & Technologies (ATS Optimized)
 
 | Category | Skills |
-|---------|--------|
-| **Programming Languages** | Python, JavaScript (ES6+), TypeScript, C++, C |
+|--------|-------|
+| **Programming Languages** | JavaScript (ES6+), Python, TypeScript, C++, C |
 | **Frontend Development** | React.js, Next.js, HTML5, CSS3, Tailwind CSS |
 | **Backend Development** | Node.js, Express.js, REST APIs |
 | **Databases** | MongoDB |
-| **Developer Tools** | Git, GitHub, Docker (Basics), Firebase, Vercel |
+| **Tools & Platforms** | Git, GitHub, Vercel, Docker (Basics), Firebase |
 
-**Keywords Covered (ATS Safe):**  
-MERN Stack Developer, Full Stack Developer, React Developer, Node.js Developer, JavaScript Developer
-
----
-
-## 🌟 Featured Projects (Recruiter Friendly)
-
-### 📁 File Management System (Python – CLI Project)
-**Tech Stack:** Python, OS Module, Pathlib  
-
-- Developed a command-line based file management system  
-- Implemented create, read, update, delete (CRUD) operations  
-- Ensured secure directory access and error handling  
-- Followed modular coding and clean function design  
-
-> **Skills Demonstrated:** Core Python, logic building, file handling, problem solving
+**ATS Keywords:**  
+MERN Stack Developer, Full Stack Developer, React Developer, Node.js Developer, JavaScript Developer, Frontend Developer
 
 ---
 
-### 🌦️ Weather Application (Frontend Project)
-**Tech Stack:** React.js, Tailwind CSS, API Integration  
+## 📌 Pinned / Featured Repositories
 
-- Built a responsive weather application using React  
-- Integrated third-party API for real-time weather data  
-- Implemented reusable components and clean UI  
-- Focused on performance and user experience  
+These are my **top projects** that best represent my skills in **Frontend, Backend, and AI**:
 
-> **Skills Demonstrated:** React fundamentals, API handling, frontend architecture
-
----
-
-### 🧾 Billing Software (Full Stack – In Progress)
-**Tech Stack:** React, Node.js, MongoDB  
-
-- Designing a billing system with staff login authentication  
-- Tracking billing actions per user  
-- Supporting multiple payment modes and payment status  
-- Planning WhatsApp bill sharing feature  
-
-> **Skills Demonstrated:** Full-stack thinking, real-world business logic
+### 🤖 AI Powered Code Reviewer  
+🔗 https://github.com/priyansh-kumar-spj/AI-POWERED-CODE-REVIEWER  
+**Tech:** React, Node.js, Express, WebLLM  
+> Full-stack AI project with offline code review support.
 
 ---
 
-## 🎯 What I Do (Role Readiness)
+### 🧠 WebLLM Offline GPT  
+🔗 https://github.com/priyansh-kumar-spj/WEBLLM-OFFLINE-GTP  
+**Tech:** JavaScript, WebLLM  
+> Browser-based offline AI inference (privacy-first).
 
-- Build responsive and accessible frontend interfaces  
-- Develop RESTful APIs using Node.js & Express  
-- Implement authentication and authorization  
-- Work with MongoDB for backend data handling  
-- Debug, optimize, and maintain applications  
-- Learn quickly and adapt to team workflows  
+---
+
+### 🌐 Landing Page  
+🔗 https://github.com/priyansh-kumar-spj/landing-page  
+**Tech:** HTML, CSS, JavaScript  
+> Clean, responsive UI demonstrating frontend fundamentals.
+
+---
+
+### ⏰ Digital Clock  
+🔗 https://github.com/priyansh-kumar-spj/DIGITAL-CLOCK  
+**Tech:** JavaScript  
+> DOM manipulation and real-time UI updates.
+
+---
+
+### 🏠 Rent Calculator  
+🔗 https://github.com/priyansh-kumar-spj/RENT-CALCULATOR  
+**Tech:** JavaScript  
+> Real-world logic based utility project.
+
+---
+
+### 🧠 Quiz App  
+🔗 https://github.com/priyansh-kumar-spj/Quiz  
+**Tech:** JavaScript  
+> Interactive quiz application with dynamic UI behavior.
+
+---
+
+## 🌟 Other Notable Projects
+
+### 🌦️ Weather Application  
+**Tech Stack:** React.js, Tailwind CSS, REST API  
+
+- Real-time weather data  
+- Clean UI and reusable components  
+
+---
+
+### 📁 File Management System (Python – CLI)  
+**Tech Stack:** Python  
+
+- CRUD operations on files  
+- Error handling & modular code  
+
+---
+
+## 🎯 What I Can Do
+
+- Build responsive frontend interfaces  
+- Develop RESTful APIs  
+- Work with MongoDB databases  
+- Debug and optimize applications  
+- Learn fast and adapt to team workflows  
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced MERN stack architecture  
+- Advanced MERN architecture  
 - Backend performance optimization  
 - System design fundamentals  
-- Server-side rendering (Next.js)  
-- Clean code & best practices  
+- Authentication & security  
 
 ---
 
-## 📫 Contact & Networking — Priyansh Kumar
+## 📫 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/priyansh-kumar-spj"><b>LinkedIn</b></a> |
-<a href="mailto:priyansh803213@gmail.com"><b>Email</b></a> |
-<a href="#"><b>Portfolio (Coming Soon)</b></a>
+  <a href="https://www.linkedin.com/in/priyansh-kumar-spj"><b>LinkedIn</b></a> •
+  <a href="mailto:priyansh803213@gmail.com"><b>Email</b></a> •
+  <a href="#"><b>Portfolio (Coming Soon)</b></a>
 </p>
 
 ---
 
+## ⚡ Why Hire Me?
 
-## ⚡ Why Work With Me?
-
-✔ Entry-level MERN Stack Developer  
-✔ Strong JavaScript & Python fundamentals  
-✔ Hands-on real-world projects  
-✔ Clean and maintainable code  
-✔ Ready to grow with the team  
+✔ Strong MERN Stack fundamentals  
+✔ Hands-on real projects  
+✔ Clean & maintainable code  
+✔ Ready for internships & junior roles  
 
 ---
 
-<h3 align="center">
-🚀 Priyansh Kumar — MERN Stack Developer Ready for Internship & Junior Roles
-</h3>
+⭐ **If you like my work, feel free to explore my repositories and give them a star!**
 
-<!-- END OF SEO + ATS OPTIMIZED README -->
 
 
 

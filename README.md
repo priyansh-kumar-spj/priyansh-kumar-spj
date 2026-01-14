@@ -71,14 +71,14 @@ These are my **top projects** that best represent my skills in **Frontend, Backe
 
 ### ⏰ Digital Clock  
 🔗 https://github.com/priyansh-kumar-spj/DIGITAL-CLOCK  
-**Tech:** JavaScript  
+**Tech:** Python  
 > DOM manipulation and real-time UI updates.
 
 ---
 
 ### 🏠 Rent Calculator  
 🔗 https://github.com/priyansh-kumar-spj/RENT-CALCULATOR  
-**Tech:** JavaScript  
+**Tech:** Python  
 > Real-world logic based utility project.
 
 ---

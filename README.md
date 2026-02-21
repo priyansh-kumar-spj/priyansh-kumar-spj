@@ -1,12 +1,9 @@
-<!-- 🔥 PRIMARY SEO KEYWORDS -->
-<!-- Priyansh Kumar, MERN Stack Developer, Full Stack Developer India, React Developer India, JavaScript Developer, Next.js Developer, Node.js Developer, Frontend Developer India, Backend Developer India -->
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=720&lines=Hello+World!+👋+I'm+Priyansh+Kumar;MERN+Stack+Developer;Frontend+Developer;Backend+Developer;Python+Developer;Software+Development+Engineer;Tech+Explorer+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=720&lines=Hello+World!+👋+I'm+Priyansh+Kumar;MERN+Stack+Developer;Semiconductor+Engineer;Frontend+Developer;Backend+Developer;Python+Developer;Software+Development+Engineer;Tech+Explorer+🚀" />
 </h1>
 
 <p align="center">
-  🚀 Full Stack Web Developer | MERN Stack | React • Node • Next.js | JavaScript & Python
+  🚀 Full Stack Web Developer | MERN Stack | React • Node • Next.js | JavaScript & Python | Semiconductor 
 </p>
 
 <p align="center">
@@ -29,7 +26,7 @@ I believe in learning by **building real projects**, not just tutorials.
 
 ---
 
-## 🛠️ Skills & Technologies (ATS Optimized)
+## 🛠️ Skills & Technologies 
 
 | Category | Skills |
 |--------|-------|
@@ -39,8 +36,6 @@ I believe in learning by **building real projects**, not just tutorials.
 | **Databases** | MongoDB |
 | **Tools & Platforms** | Git, GitHub, Vercel, Docker (Basics), Firebase |
 
-**ATS Keywords:**  
-MERN Stack Developer, Full Stack Developer, React Developer, Node.js Developer, JavaScript Developer, Frontend Developer
 
 ---
 
